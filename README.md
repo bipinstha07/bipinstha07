@@ -1,20 +1,10 @@
 
 <h1 align="center">👋 Greetings, Explorer! I'm <span style="color:#0077FF;">Bipin Shrestha</span></h1>
-<h3 align="center">💡 Full-Stack Developer | Java Spring Boot React AWS Devops | AI Enthusiast</h3>
+<h3 align="center">💡 Full-Stack Developer | Java-Spring Boot-React-AWS-Devops | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bipinstha07&label=Visitors&color=0077FF&style=flat-square" alt="profile views" />
 </p>
-
----
-
-### 🌌 About Me
-
-- ⚙️ Passionate **Full-Stack Developer** creating clean, scalable web ecosystems  
-- 🧠 Skilled in **React, Tailwind, Spring Boot, Java, SQL, and AWS**  
-- ☁️ Currently exploring **AI integrations and cloud-native systems**  
-- 🎯 Focused on **usability, performance, and futuristic design principles**  
-- 🪐 Believer in *“Code simplicity is the ultimate sophistication.”*  
 
 ---
 
