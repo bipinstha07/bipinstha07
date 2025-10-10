@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bipinstha07&label=Visitors&color=0077FF&style=flat-square" alt="profile views" />
-
 </p>
 
 ---
@@ -56,7 +55,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,java,spring,aws,docker,kubernetes,mysql,postgresql,mongodb,redis,git,linux,typescript,html,css,javascript&perline=8" />
 </p>
+
 ---
+
 <p align="center">
   🧩 <b>“Keep coding. Keep exploring. The universe runs on logic.”</b> 🧩  
 </p>
