@@ -34,10 +34,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bipinstha07&theme=transparent&hide_border=true&ring=0077FF&fire=0077FF&currStreakLabel=000000" alt="Streak stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipinstha07&layout=compact&theme=transparent&title_color=0077FF&text_color=000000" alt="Top Languages" />
-</p>
-
 ---
 
 ### ⚡ Tech Arsenal
