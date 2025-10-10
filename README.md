@@ -12,7 +12,7 @@
 
 <div align="center" style="background-color:#ffffff; padding:15px; border-radius:10px;">
 
-  <a href="https://www.linkedin.com/in/bipinstha07/" target="_blank">
+  <a href="https://www.linkedin.com/in/bipin-shrestha-4baba01a0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 
