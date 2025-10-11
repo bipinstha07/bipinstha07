@@ -1,14 +1,15 @@
 
 <h1 align="center">👋 Greetings, Explorer! I'm <span style="color:#0077FF;">Bipin Shrestha</span></h1>
-<h3 align="center">💡 Full-Stack Developer | Java-Spring Boot-React-AWS-Devops | AI Enthusiast</h3>
+<p align="center"> <b>
+  💡 Full-Stack Developer | Java · Spring Boot · React · AWS · DevOps | AI Enthusiast
+  </b>
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bipinstha07&label=Visitors&color=0077FF&style=flat-square" alt="profile views" />
 </p>
 
----
-
-### 🤝 Connect with Me
 
 <div align="center" style="background-color:#ffffff; padding:15px; border-radius:10px;">
 
@@ -26,17 +27,9 @@
 
 </div>
 
----
-
-### 🚀 GitHub Analytics
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bipinstha07&theme=transparent&hide_border=true&ring=0077FF&fire=0077FF&currStreakLabel=000000" alt="Streak stats" />
 </p>
-
----
-
-### ⚡ Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,java,spring,aws,docker,kubernetes,mysql,postgresql,mongodb,redis,git,linux,typescript,html,css,javascript&perline=8" />
