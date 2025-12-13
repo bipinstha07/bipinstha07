@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 Greetings, Explorer! I'm <span style="color:#0077FF;">Bipin Shrestha</span></h1>
 <p align="center"> <b>
-  💡 Full-Stack Developer | Java · Spring Boot · React · AWS · DevOps | AI Enthusiast
+  💡 Full-Stack Developer | Certified AWS Solution Architect | Java · Spring Boot · React · AWS · DevOps | AI Enthusiast
   </b>
 </p>
 
