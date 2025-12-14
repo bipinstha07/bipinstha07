@@ -4,6 +4,12 @@
   💡 Full-Stack Developer | Certified AWS Solution Architect | Java · Spring Boot · React · AWS · DevOps | AI Enthusiast
   </b>
 </p>
+<p align="center">
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1fcd865f-63ed-4c20-a0a7-7193252c8e23" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5fc8e549-757d-4035-9720-698ebf13c5af" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6d8cfe5e-b6af-4eef-a078-480df6061d43" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ec2fcdcb-f5b0-4afe-b8f3-15a0c55e151f" />
+</p>
 
 
 <p align="center">
