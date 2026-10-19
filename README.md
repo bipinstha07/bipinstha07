@@ -21,9 +21,6 @@
 
 <div align="center" style="background-color:#ffffff; padding:15px; border-radius:10px;">
 
-  <a href="https://www.linkedin.com/in/bipin-shrestha-4baba01a0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
 
   <a href="mailto:bipinstha830@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Message-EA4335?style=for-the-badge&logo=gmail" />
